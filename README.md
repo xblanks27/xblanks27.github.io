@@ -9,6 +9,8 @@
 
 ## Original Artifact
 
+{::options parse_block_html="true" /}
+
 <details><summary>This is the main class of the original artifact</summary>
 
 ```java
