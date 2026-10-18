@@ -1,6 +1,3 @@
 # xblanks27.github.io
-# hello
-#
-#
-#
-# spaced
+# Hello, my name is Larry
+
