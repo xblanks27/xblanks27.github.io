@@ -26,7 +26,7 @@
 
 <details><summary>This is the main class of the original artifact</summary>
 
-```java
+```
 package com.Sample.capstone;
 
 import java.util.ArrayList;
