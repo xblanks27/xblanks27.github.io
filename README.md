@@ -282,6 +282,8 @@ public class Driver {
 
 </details>
 
+{::options parse_block_html="false" /}
+
 [Here is the link to the original artifact file](https://github.com/xblanks27/CS-499-Computer-Science-Capstone-Project/tree/main)
 
 ## Enhanced Artifact
