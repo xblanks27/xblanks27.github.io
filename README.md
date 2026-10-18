@@ -10,5 +10,8 @@
 ## Original Artifact
 [Here is the link to the original artifact file](https://github.com/xblanks27/CS-499-Computer-Science-Capstone-Project/tree/main)
 
+## Artifact narratives
+[Here is the link to the artifact narratives](https://github.com/xblanks27/CS-499-Computer-Science-Capstone-Project/tree/Module-Seven)
+
 ## Enhanced Artifact
 [Here is the link to the enhanced artifact files](https://github.com/xblanks27/CS-499-Computer-Science-Capstone-Project/tree/Module-Seven)
