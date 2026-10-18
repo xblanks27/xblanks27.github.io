@@ -9,8 +9,6 @@
 
 ## Original Artifact
 
-{::options parse_block_html="true" /}
-
 <details><summary>This is the main class of the original artifact</summary>
 
 ```java
@@ -284,8 +282,6 @@ public class Driver {
 
 </details>
 <br/>
-
-{::options parse_block_html="false" /}
 
 [Here is the link to the original artifact file](https://github.com/xblanks27/CS-499-Computer-Science-Capstone-Project/tree/main)
 
